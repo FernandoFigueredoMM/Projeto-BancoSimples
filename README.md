@@ -1,2 +1,2 @@
-# Projeto-BancoSimples
+# Banco Simples
 Projeto básico do curso dio.me
